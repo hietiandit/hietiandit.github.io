@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hietiandit.github.io/sitemap
+Sitemap: https://hietiandit.github.io/app/sitemap
+Sitemap: https://hietiandit.github.io/assets/sitemap
+Sitemap: https://hietiandit.github.io/css/sitemap
+Sitemap: https://hietiandit.github.io/includes/sitemap
+Sitemap: https://hietiandit.github.io/item/sitemap
+Sitemap: https://hietiandit.github.io/src/sitemap
